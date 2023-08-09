@@ -1,4 +1,4 @@
-![image](https://github.com/pooja20-gurav/Instant_Health_Alert_System/assets/81917801/77f8538a-e0c7-450c-80b7-22dea4206125)# Instant_Health_Alert_System
+# Instant_Health_Alert_System
 
 
 
@@ -22,12 +22,17 @@ b) The advent of IoT devices has digitized vital health data such as body temper
 ## Conclusion
 
 
-1.It will reduce the patient's risk.
-2.Send and deliver emergency alerts faster.
-3.Check staff safety and Focus Crisis Response efforts.
-4.Improve Emergency Response Plans and Process 
-5.Save time and Increase notification efficiency.
-6.Communicates with Target Patient’s.
+- It will reduce the patient's risk.
+
+- Send and deliver emergency alerts faster.
+  
+- Check staff safety and Focus Crisis Response efforts.
+  
+- Improve Emergency Response Plans and Process.
+  
+- Save time and Increase notification efficiency.
+  
+- Communicates with Target Patient’s.
 
 
 
